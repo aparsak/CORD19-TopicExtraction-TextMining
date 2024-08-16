@@ -1,3 +1,7 @@
+# Status 🚧
+
+This project readme is currently **a work in progress**. 
+
 # 🦠 COVID-19 Text Mining and Clustering Project 📊
 
 ## 📖 Overview
